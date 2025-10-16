@@ -1,0 +1,87 @@
+{
+  "AMRT": {
+    "company_info": {
+      "ticker": "AMRT",
+      "company_name": "PT Sumber Alfaria Trijaya Tbk",
+      "sector": "Consumer Defensive",
+      "current_price": 2210,
+      "shares_outstanding": 41524.5,
+      "market_cap": 91.77
+    },
+    "vcs_data": {
+      "lifecycle": 3.5,
+      "porter": 3.0,
+      "management": 3.0,
+      "esg": 3.3
+    },
+    "historical_data": [
+      {
+        "year": 2023,
+        "revenue": 106944.7,
+        "ebit": 4444.9,
+        "net_income": 3403.7,
+        "ocf": 6817.0,
+        "total_assets": 34246.2,
+        "equity": 15705.2,
+        "cash": 4074.5
+      },
+      {
+        "year": 2024,
+        "revenue": 118227.0,
+        "ebit": 4140.1,
+        "net_income": 3148.1,
+        "ocf": 8063.1,
+        "total_assets": 38798.4,
+        "equity": 17695.9,
+        "cash": 4845.2
+      }
+    ],
+    "projected_data": [
+      {
+        "year": 2025,
+        "revenue": 127685.2,
+        "ebit": 4469.0,
+        "net_income": 3424.4,
+        "ocf": 8700.0,
+        "total_assets": 42678.2,
+        "equity": 19891.8,
+        "cash": 5650.0
+      },
+      {
+        "year": 2026,
+        "revenue": 136623.1,
+        "ebit": 4781.8,
+        "net_income": 3673.1,
+        "ocf": 9300.0,
+        "total_assets": 46946.1,
+        "equity": 22264.9,
+        "cash": 6550.0
+      },
+      {
+        "year": 2027,
+        "revenue": 143054.3,
+        "ebit": 5003.5,
+        "net_income": 3851.4,
+        "ocf": 9750.0,
+        "total_assets": 50240.1,
+        "equity": 24516.3,
+        "cash": 7500.0
+      }
+    ],
+    "valuation_data": {
+      "model_tp": 3050,
+      "relative_val": 2882,
+      "current_price": 2210
+    },
+    "growth_data": {
+      "revenue_growth": 0.144,
+      "ebit_growth": 0.166,
+      "np_growth": 0.166
+    },
+    "macro_data": {
+      "nominal_gdp": 0.08,
+      "real_gdp": 0.05
+    }
+  }
+}
+
